@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(whoam)i"
+echo "$(whoami)"
